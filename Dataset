@@ -1,0 +1,16 @@
+ Purpose of the Dataset
+
+This dataset is designed to help educational platforms and instructors analyze how students engage with e-learning content and how that engagement affects their academic performance. The goal is to use these insights to personalize learning paths, offer targeted feedback, and improve overall student outcomes.
+
+⸻
+
+ Nature of the Dataset
+	•	Type: Tabular (structured)
+	•	Entries: Each row represents data for a single student over a specific time period (weekly, monthly, or per course module).
+	•	Focus: Student behavior and performance on the Applications of the Dataset
+
+Using this dataset, educators and platforms can:
+	•	Detect disengaged students (e.g., low logins, low video views).
+	•	Identify struggling learners (e.g., low scores despite high engagement).
+	•	Provide personalized interventions (e.g., extra videos, practice quizzes).
+	•	Measure learning effectiveness (e.g., time spent vs. performance)
